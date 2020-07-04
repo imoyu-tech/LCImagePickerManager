@@ -1,0 +1,2 @@
+# LCImagePickerManager
+一行代码搞定iOS原生相册相机调用
